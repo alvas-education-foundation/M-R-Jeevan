@@ -16,5 +16,22 @@ Input the second string : Computer science is awesome
 YES
 '''
 
+def subsequebce(a,b):
+    i = 0
+    for s in a:
+        if s in b[i::]:
+            i = b.index(s)
+        else:
+            return False
+    return True
+
+
+str1 = input('Enter String 1 :')
+str2 = input('Enter String 2 : ')
+
+if subsequebce(str1,str2) or subsequebce(str2,str1):
+    print('True')
+else:
+    print('False')
 
 
