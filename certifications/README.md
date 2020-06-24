@@ -4,6 +4,6 @@
   - [Python for Machine Learning](https://olympus1.greatlearning.in/course_certificate/DITPPKBN)
   - [Introduction to Ethical Hacking](https://olympus1.greatlearning.in/course_certificate/NGVJJNBQ)
   - [Python(Basic)!](https://www.hackerrank.com/certificates/67165025d901)
-
+  - [The Modern Python 3 Bootcamp](https://udemy-certificate.s3.amazonaws.com/pdf/UC-2eed750b-7eac-4099-a39d-21e207ba95c1.pdf)
 - ## Pursuing
-  - [The Modern Python 3 Bootcamp](https://www.udemy.com/course/the-modern-python3-bootcamp)
+  
