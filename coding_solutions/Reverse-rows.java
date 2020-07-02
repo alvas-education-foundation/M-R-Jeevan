@@ -1,5 +1,5 @@
 //
-//Write a C Program to reverse the rows in a 2d Array
+//Write a Program to reverse the rows in a 2d Array
 //
 
 public class GFG{ 
