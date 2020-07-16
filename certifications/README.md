@@ -12,4 +12,6 @@
   - [Problem Solving (Basic)](https://www.hackerrank.com/certificates/20ccbba74a72)
   
 - ## Pursuing
-  
+  - [Neural Networks in Python: Deep Learning for Beginners] (https://www.udemy.com/course/neural-network-understanding-and-building-an-ann-in-python/)
+  - [Using Python to Interact with the Operating System] (https://www.coursera.org/learn/python-operating-system)
+  - [Neural Networks and Deep Learning] (https://www.coursera.org/learn/neural-networks-deep-learning)
